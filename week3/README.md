@@ -36,7 +36,12 @@
 
 ## 📎 공부 내용 정리
 
-- `AID_DL_Chapter(3_3,_3_4).jpynb`
+- `AID_DL_Chapter(4.3).pdf`
+- `AID_DL_Chapter(4.4).html`
+- `AID_DL_Chapter(4.5).jpynb`
+- `AID_DL_Chapter(5.1).pdf`
+
+
 
 
 ---
