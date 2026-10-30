@@ -48,4 +48,4 @@
 
 ## 📌 다음 주 계획
 
-- chapter 4.3 ~ chapter 5.1
+- chapter 5.2 ~ chapter 6.1
